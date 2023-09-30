@@ -1,7 +1,7 @@
 LOCAL_PATH := $(call my-dir)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := GoogleCamera8
+LOCAL_MODULE := GoogleCamera
 LOCAL_MODULE_TAGS := optional
 LOCAL_SRC_FILES := Camera.apk
 LOCAL_CERTIFICATE := PRESIGNED
